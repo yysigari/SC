@@ -1,0 +1,19 @@
+— T. Hellert et al., "Lattice correction and commissioning simulation of the Advanced Light Source upgrade storage ring", Phys. Rev. Accel. Beams 25/110701, 2022,
+
+— G. Penn et al., "Comparisons Between AT and Elegant Tracking", in Proc. of 12th Int. Particle Accelerator Conf. (IPAC’21): Campinas, Brazil, 2021, Paper-ID: MOPAB119
+
+— T. Hellert et al., "Toolkit for simulated commissioning of storage-ring light sources and application to the advanced light source upgrade accumulator", Phys. Rev. Accel. Beams 22/100702, 2019,
+
+— V. Sajaev, "Commissioning simulations for the Argonne Advanced Photon Source upgrade lattice", Phys. Rev. Accel. Beams 22/040102, 2019,
+
+— T. Hellert et al., "Simulation of trajectory correction in early commissioning of the Advanced Light Source upgrade", in Journal of Physics: Conference Series, Vol. 1067, Pages 032001, 2018
+
+— S. Liuzzo et al., "Lattice Tuning and Error Setting in Accelerator Toolbox", in Proc. of 8th Int. Particle Accelerator Conf. (IPAC’17): Copenhagen, Denmark, 2017, Paper-ID: WEPIK061
+
+— V. Sajaev and M. Borland, "Commissioning Simulations for the APS Upgrade Lattice", in Proc. 6th Int. Particle Accelerator Conf. (IPAC’15), Richmond, VA, USA, 2015, Paper-ID: MOPMA010
+
+
+
+https://sc.lbl.gov/main.html
+
+https://chatgpt.com/share/67bb9f1c-7018-8012-9417-85f4434e2784
